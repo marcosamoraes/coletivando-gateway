@@ -1,0 +1,8 @@
+{
+  "name": "app-pagamento",
+  "app_id": "48ac053c",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
+}
